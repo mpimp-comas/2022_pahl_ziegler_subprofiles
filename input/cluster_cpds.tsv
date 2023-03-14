@@ -1,228 +1,245 @@
-Well_Id	Cluster	Induction	Conc_uM	Trivial_Name
-392483:01:10_00.20	AKT_PI3K_MTOR	47.0	0.2	Rapamycin (Sirolimus)
-392483:01:10_02.00	AKT_PI3K_MTOR	32.3	2.0	Rapamycin (Sirolimus)
-392513:01:09_02.00	AKT_PI3K_MTOR	40.2	2.0	Everolimus (RAD001)
-392535:01:10_02.00	AKT_PI3K_MTOR	39.6	2.0	KU-0063794
-392538:01:10_02.00	AKT_PI3K_MTOR	40.9	2.0	WYE-354
-392563:01:10_02.00	AKT_PI3K_MTOR	49.2	2.0	AZD8055
-392604:01:09_02.00	AKT_PI3K_MTOR	41.6	2.0	OSI-027
-392616:01:09_00.20	AKT_PI3K_MTOR	51.5	0.2	WYE-132
-392630:01:09_02.00	AKT_PI3K_MTOR	44.0	2.0	GDC-0980 (RG7422)
-392634:01:09_00.20	AKT_PI3K_MTOR	51.5	0.2	Sapanisertib
-392638:01:09_02.00	AKT_PI3K_MTOR	51.5	2.0	PF-04691502
-392708:01:09_02.00	AKT_PI3K_MTOR	45.3	2.0	GDC-0349
-392761:01:09_00.20	AKT_PI3K_MTOR	45.4	0.2	Zotarolimus(ABT-578)
-392761:01:09_02.00	AKT_PI3K_MTOR	39.9	2.0	Zotarolimus(ABT-578)
-392764:01:09_02.00	AKT_PI3K_MTOR	35.1	2.0	Temsirolimus (CCI-779, NSC 683864)
-392893:01:08_10.00	AKT_PI3K_MTOR	25.2	10.0	Ipatasertib
-392897:01:09_10.00	AKT_PI3K_MTOR	47.0	10.0	BAY 80-6946, Copanlisib
-392897:01:10_03.00	AKT_PI3K_MTOR	51.5	3.0	BAY 80-6946, Copanlisib
-392321:02:09_02.00	Aurora	27.6	2.0	ZM-447439
-392321:03:03_02.00	Aurora	37.0	2.0	ZM-447439
-392506:01:09_02.00	Aurora	17.3	2.0	Danusertib
-392506:02:03_02.00	Aurora	25.4	2.0	Danusertib
-392517:02:03_00.20	Aurora	40.8	0.2	AT9283
-392517:02:03_02.00	Aurora	32.5	2.0	AT9283
-392520:01:10_00.20	Aurora	14.7	0.2	Barasertib-HQPA
-392520:01:10_02.00	Aurora	32.8	2.0	Barasertib-HQPA
-392522:01:09_00.20	Aurora	38.9	0.2	SNS-314
-392522:01:09_02.00	Aurora	29.9	2.0	SNS-314
-392522:02:03_02.00	Aurora	30.6	2.0	SNS-314
-392595:01:09_00.20	Aurora	30.6	0.2	AMG 900
-392595:01:09_02.00	Aurora	39.9	2.0	AMG 900
-392643:01:09_02.00	Aurora	16.6	2.0	CCT 137690
-409875:01:02_10.00	Aurora	49.1	10.0	CFI-400945
-410084:01:04_00.20	Aurora	27.6	0.2	BI-847325
-410084:01:05_00.20	Aurora	31.8	0.2	BI-847325
-410128:01:03_02.00	Aurora	40.6	2.0	SNS-314
-410632:01:03_02.00	Aurora	40.1	2.0	ENMD-2076 L-(+)-Tartaric acid
-410784:01:03_00.20	Aurora	27.3	0.2	Barasertib
-410784:01:03_02.00	Aurora	32.3	2.0	Barasertib
-410914:01:03_00.20	Aurora	33.2	0.2	GSK-1070916
-409850:01:02_10.00	BET	43.0	10.0	PFI-1
-409850:02:04_10.00	BET	37.7	10.0	PFI-1
-410668:01:03_02.00	BET	46.1	2.0	(+)-JQ-1
-410668:02:03_00.20	BET	38.2	0.2	(+)-JQ-1
-410668:02:03_02.00	BET	62.0	2.0	(+)-JQ-1
-410825:01:03_00.20	BET	32.0	0.2	Birabresib
-410827:01:03_00.20	BET	32.1	0.2	PLX51107
-410827:01:03_02.00	BET	53.5	2.0	PLX51107
-410837:01:03_00.20	BET	39.0	0.2	GSK1324726A
-410840:01:03_00.20	BET	53.4	0.2	MS417
-410840:01:03_02.00	BET	53.5	2.0	MS417
-410851:01:03_02.00	BET	56.1	2.0	I-BET151
-410861:01:03_02.00	BET	50.6	2.0	Bromosporine
-410883:01:03_02.00	BET	41.1	2.0	Y06036
-410884:01:03_00.20	BET	52.5	0.2	CF53
-410885:01:03_02.00	BET	48.4	2.0	BAY1238097
-410900:01:03_00.20	BET	37.0	0.2	CPI-203
-410900:01:03_02.00	BET	60.6	2.0	CPI-203
-410905:01:03_00.20	BET	28.3	0.2	ABBV-744
-410924:01:03_00.20	BET	61.1	0.2	ARV-771
-410925:01:03_00.20	BET	31.1	0.2	(Rac)-BAY1238097
-410941:01:03_00.20	BET	49.1	0.2	BET bromodomain inhibitor
-410941:01:03_02.00	BET	57.0	2.0	BET bromodomain inhibitor
-410946:01:03_00.20	BET	37.0	0.2	INCB054329
-410946:01:03_02.00	BET	53.9	2.0	INCB054329
-410947:01:03_00.20	BET	46.3	0.2	(+)-JQ1 PA
-410947:01:03_02.00	BET	54.9	2.0	(+)-JQ1 PA
-410954:01:03_02.00	BET	32.3	2.0	(S)-JQ-35
-410968:01:03_00.20	BET	40.9	0.2	HJB97
-410999:01:03_00.20	BET	60.6	0.2	Mivebresib
-411007:01:03_00.20	BET	54.4	0.2	INCB-057643
-246366:01:04_10.00	DNA_Synth	29.9	10.0	Topotecan
-246389:01:04_10.00	DNA_Synth	33.5	10.0	Cladribine
-246660:01:04_10.00	DNA_Synth	39.7	10.0	Gemcitabine
-246660:01:04_30.00	DNA_Synth	30.9	30.0	Gemcitabine
-246719:01:04_10.00	DNA_Synth	29.9	10.0	Fludarabine
-246719:01:04_30.00	DNA_Synth	24.4	30.0	Fludarabine
-246755:01:04_10.00	DNA_Synth	32.6	10.0	Trifluridine
-246785:01:04_10.00	DNA_Synth	41.5	10.0	Cytarabine
-247186:01:04_10.00	DNA_Synth	37.8	10.0	Ciclopirox (olamine)
-247256:01:04_10.00	DNA_Synth	36.3	10.0	Deferoxamine mesylate
-247256:01:04_30.00	DNA_Synth	45.6	30.0	Deferoxamine mesylate
-247256:01:06_03.00	DNA_Synth	21.4	3.0	Deferoxamine mesylate
-247256:03:04_06.00	DNA_Synth	24.9	6.0	Deferoxamine mesylate
-247256:03:04_10.00	DNA_Synth	24.5	10.0	Deferoxamine mesylate
-247284:01:04_30.00	DNA_Synth	27.1	30.0	Vidarabine
-280158:01:04_30.00	DNA_Synth	45.6	30.0	ARP 101
-280184:01:03_10.00	DNA_Synth	25.4	10.0	PAC-1
-280184:01:03_30.00	DNA_Synth	48.4	30.0	PAC-1
-280184:02:04_06.00	DNA_Synth	19.2	6.0	PAC-1
-280184:02:04_10.00	DNA_Synth	26.9	10.0	PAC-1
-280293:01:03_10.00	DNA_Synth	33.5	10.0	Ancitabine hydrochloride, Cyclocytidine hydrochloride, Cyclo-C
-280420:01:03_10.00	DNA_Synth	29.4	10.0	Cytosine-1-beta-D-arabinofuranoside hydrochloride, Arabinocytidine hydrochloride, Arabinosylcytosine hydrochloride, Ara-C hydrochloride
-280865:01:03_10.00	DNA_Synth	44.2	10.0	o-Phenanthroline
-280907:01:03_30.00	DNA_Synth	17.6	30.0	(±)-6-Chloro-PB hydrobromide, (±)-SKF-81297 hydrobromide
-392341:01:02_00.20	DNA_Synth	14.9	0.2	
-392511:01:09_02.00	DNA_Synth	22.3	2.0	Palbociclib (hydrochloride)
-407753:01:02_10.00	DNA_Synth	38.2	10.0	SP2509
-407753:02:03_02.00	DNA_Synth	24.7	2.0	SP2509
-408119:01:03_10.00	DNA_Synth	26.8	10.0	Gemcitabine HCl, LY188011
-246688:01:04_10.00	HDAC	59.1	10.0	Vorinostat
-246688:01:04_30.00	HDAC	66.3	30.0	Vorinostat
-246688:01:12_03.00	HDAC	52.8	3.0	Vorinostat
-392531:01:09_02.00	HDAC	52.2	2.0	CUDC-101
-392651:01:09_00.20	HDAC	64.4	0.2	Fimepinostat
-392651:01:09_02.00	HDAC	74.3	2.0	Fimepinostat
-409838:01:04_10.00	HDAC	54.9	10.0	ACY-738
-409879:01:02_02.00	HDAC	68.9	2.0	Romidepsin
-409879:01:05_00.20	HDAC	69.1	0.2	Romidepsin
-409947:02:03_02.00	HDAC	54.7	2.0	Belinostat
-410069:01:03_02.00	HDAC	63.4	2.0	CAY10603
-410069:01:05_00.60	HDAC	45.6	0.6	CAY10603
-410801:01:04_00.20	HDAC	57.0	0.2	Panobinostat
-410801:01:04_02.00	HDAC	65.3	2.0	Panobinostat
-410803:01:03_00.20	HDAC	63.6	0.2	Quisinostat
-410803:01:03_02.00	HDAC	61.3	2.0	Quisinostat
-410804:01:03_00.20	HDAC	49.2	0.2	Trichostatin A
-410804:01:03_02.00	HDAC	58.7	2.0	Trichostatin A
-410806:01:03_02.00	HDAC	28.0	2.0	Ricolinostat
-410811:01:03_00.20	HDAC	22.8	0.2	Scriptaid
-410811:01:03_02.00	HDAC	52.3	2.0	Scriptaid
-410824:01:03_02.00	HDAC	62.2	2.0	Dacinostat
-410843:01:03_00.20	HDAC	32.8	0.2	Pracinostat
-410843:01:03_02.00	HDAC	55.8	2.0	Pracinostat
-410856:01:03_02.00	HDAC	56.5	2.0	HDAC-IN-3
-410879:01:03_00.20	HDAC	38.7	0.2	Givinostat (hydrochloride monohydrate)
-410879:01:03_02.00	HDAC	68.0	2.0	Givinostat (hydrochloride monohydrate)
-410916:01:03_00.20	HDAC	33.0	0.2	M344
-410990:01:03_00.20	HDAC	34.2	0.2	LMK-235
-410990:01:03_02.00	HDAC	55.4	2.0	LMK-235
-410102:01:03_02.00	HSP90	45.9	2.0	PU-H71
-410608:01:03_02.00	HSP90	48.9	2.0	Tanespimycin (17-AAG)
-410702:01:03_02.00	HSP90	44.9	2.0	Luminespib
-410733:01:03_02.00	HSP90	30.4	2.0	NVP-HSP990
-246344:01:04_30.00	LCH	63.6	30.0	Drofenine hydrochloride
-246481:01:04_10.00	LCH	56.5	10.0	DO 897/99
-246507:01:04_30.00	LCH	34.7	30.0	Chloropyramine hydrochloride
-246537:01:04_30.00	LCH	59.8	30.0	Dimethisoquin hydrochloride
-246604:01:04_30.00	LCH	79.3	30.0	Penbutolol sulfate
-246739:01:09_03.00	LCH	44.0	3.0	Sertraline
-246746:01:04_30.00	LCH	67.9	30.0	Cyproheptadine (hydrochloride)
-246889:01:05_10.00	LCH	63.7	10.0	Loperamide (hydrochloride)
-246940:01:04_30.00	LCH	40.9	30.0	Alverine (citrate)
-247042:02:03_10.00	LCH	66.8	10.0	Pimozide
-247050:03:03_10.00	LCH	56.5	10.0	Fluphenazine dihydrochloride
-247164:01:04_10.00	LCH	60.1	10.0	Bromperidol
-247165:02:03_10.00	LCH	47.5	10.0	Fluoxetine hydrochloride, Prozac
-247177:02:03_10.00	LCH	45.3	10.0	Triflupromazine (hydrochloride)
-247234:01:04_30.00	LCH	76.2	30.0	Promazine hydrochloride
-247241:01:04_30.00	LCH	51.8	30.0	Chlorcyclizine hydrochloride
-247242:01:04_30.00	LCH	27.3	30.0	Diphenylpyraline hydrochloride
-247293:01:04_30.00	LCH	68.2	30.0	Proadifen (hydrochloride)
-247331:01:04_30.00	LCH	54.2	30.0	Ethopropazine hydrochloride
-247369:02:03_10.00	LCH	67.7	10.0	Fluspirilene
-247369:02:05_03.00	LCH	57.2	3.0	Fluspirilene
-247423:01:04_30.00	LCH	59.9	30.0	Pizotyline malate
-280128:01:07_03.00	LCH	59.9	3.0	U-73343
-280575:01:09_03.00	LCH	74.8	3.0	GR 127935 hydrochloride
-280660:01:03_10.00	LCH	63.9	10.0	L-703,606, oxalate
-280690:01:03_10.00	LCH	53.4	10.0	Methiothepin mesylate
-280751:01:03_30.00	LCH	37.1	30.0	Naltrindole hydrochloride, NTI hydrochloride
-280789:01:03_10.00	LCH	52.3	10.0	(±)-Octoclothepin maleate
-280850:01:03_10.00	LCH	43.2	10.0	Propionylpromazine hydrochloride
-280918:01:08_03.00	LCH	37.7	3.0	Cortexolone maleate
-280968:01:03_10.00	LCH	35.8	10.0	Trifluperidol hydrochloride, R 2498 hydrochloride, Triperidol hydrochloride
-281022:01:03_30.00	LCH	52.8	30.0	(-)-cis-(1S,2R)-U-50488 tartrate
-287906:02:15_30.00	LCH	65.3	30.0	Pipinib
-350306:01:04_03.00	LCH	43.9	3.0	SAG
-391878:01:02_02.00	LCH	78.4	2.0	
-392527:02:04_06.00	LCH	61.8	6.0	WZ4002
-392660:02:06_03.00	LCH	70.1	3.0	NVP-AEW541
-392675:01:09_02.00	LCH	48.0	2.0	IKK 16
-394120:01:07_10.00	LCH	78.9	10.0	Autoquin
-409856:01:05_03.00	LCH	42.7	3.0	GSK343
-409873:01:03_01.00	LCH	51.6	1.0	LLY-507
-409873:01:04_01.00	LCH	43.0	1.0	LLY-507
-410147:01:04_06.00	LCH	78.1	6.0	Ozanimod
-410285:01:03_03.00	LCH	34.9	3.0	Nemiralisib
-412258:01:03_10.00	LCH	50.4	10.0	ACBI1
-412258:01:08_10.00	LCH	59.1	10.0	ACBI1
-412270:01:03_10.00	LCH	56.8	10.0	cis-ACBI1
-412483:01:04_03.00	LCH	67.2	3.0	
-413119:01:04_10.00	LCH	43.7	10.0	A 987306
-247300:01:15_01.00	Protein_Synth	46.6	1.0	Cycloheximide
-247300:01:15_03.00	Protein_Synth	46.3	3.0	Cycloheximide
-280533:01:10_01.00	Protein_Synth	57.5	1.0	Emetine dihydrochloride hydrate
-104614:02:17_30.00	Tubulin	63.7	30.0	Tubulexin A
-245354:03:12_00.10	Tubulin	58.2	0.1	Nocodazole
-246557:01:04_30.00	Tubulin	67.4	30.0	Methiazole
-246702:01:04_30.00	Tubulin	27.6	30.0	Flubendazole
-246876:01:04_10.00	Tubulin	21.1	10.0	Ethynyl Estradiol
-246876:01:04_30.00	Tubulin	67.0	30.0	Ethynyl Estradiol
-246898:01:04_30.00	Tubulin	57.2	30.0	Oxfendazole
-246967:01:04_30.00	Tubulin	69.6	30.0	Fenbendazole
-246972:01:08_01.00	Tubulin	53.5	1.0	Mebendazole
-246972:12:05_00.60	Tubulin	50.6	0.6	Mebendazole
-246980:07:05_50.00	Tubulin	34.2	50.0	Griseofulvin
-246980:07:08_30.00	Tubulin	36.6	30.0	Griseofulvin
-246994:01:07_01.00	Tubulin	65.8	1.0	Albendazole
-247133:01:04_30.00	Tubulin	20.2	30.0	Estradiol
-280418:01:03_10.00	Tubulin	45.4	10.0	7-Chloro-4-hydroxy-2-phenyl-1,8-naphthyridine
-280418:01:03_30.00	Tubulin	61.1	30.0	7-Chloro-4-hydroxy-2-phenyl-1,8-naphthyridine
-280630:01:11_01.00	Tubulin	12.1	1.0	IC261
-280630:01:11_03.00	Tubulin	64.4	3.0	IC261
-280897:07:06_01.00	Tubulin	51.5	1.0	Rotenone
-280954:01:03_10.00	Tubulin	72.9	10.0	SKF-96365
-280954:01:07_03.00	Tubulin	30.7	3.0	SKF-96365
-391925:02:09_00.20	Tubulin	37.7	0.2	TCS JNK 5a
-391925:03:04_00.60	Tubulin	81.0	0.6	TCS JNK 5a
-391925:03:05_00.20	Tubulin	73.7	0.2	TCS JNK 5a
-409809:01:02_10.00	Tubulin	70.3	10.0	
-409915:01:02_10.00	Tubulin	63.7	10.0	TP-472
-410065:02:03_00.20	Tubulin	50.4	0.2	Domatinostat
-410072:01:03_02.00	Tubulin	17.8	2.0	TH287
-410074:01:03_02.00	Tubulin	46.1	2.0	SB225002
-410129:01:03_02.00	Tubulin	53.4	2.0	Anlotinib (AL3818) dihydrochloride
-410613:01:03_02.00	Tubulin	66.1	2.0	2-Methoxyestradiol (2-MeOE2)
-410748:01:04_06.00	Tubulin	58.4	6.0	TH588
-410884:01:03_02.00	Tubulin	71.5	2.0	CF53
-410973:01:03_02.00	Tubulin	73.4	2.0	TyK2-IN-2
-246911:01:04_30.00	Uncoupler	32.8	30.0	Triclosan
-280973:01:03_10.00	Uncoupler	47.5	10.0	Tyrphostin A9
-280982:01:03_10.00	Uncoupler	22.5	10.0	Tyrphostin AG 879
-280982:01:03_30.00	Uncoupler	51.1	30.0	Tyrphostin AG 879
-392672:01:09_02.00	Uncoupler	28.0	2.0	IMD-0354
-404608:01:13_10.00	Uncoupler	39.9	10.0	FCCP
-404608:01:15_10.00	Uncoupler	33.3	10.0	FCCP
+Well_Id	Cluster	Induction	Conc_uM	Rel_Cell_Count	Trivial_Name	Smiles	Chiral
+392483:01:10_00.20	AKT_PI3K_MTOR	47.0	0.2	100	Rapamycin (Sirolimus)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	False
+392483:01:10_02.00	AKT_PI3K_MTOR	32.3	2.0	98	Rapamycin (Sirolimus)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	False
+392513:01:09_02.00	AKT_PI3K_MTOR	40.2	2.0	96	Everolimus (RAD001)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@@H](C)C[C@@H]2CC[C@@H](OCCO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	True
+392535:01:10_02.00	AKT_PI3K_MTOR	39.6	2.0	96	KU-0063794	COc1ccc(-c2ccc3c(N4CCOCC4)nc(N4C[C@H](C)O[C@H](C)C4)nc3n2)cc1CO	False
+392538:01:10_02.00	AKT_PI3K_MTOR	40.9	2.0	90	WYE-354	COC(=O)Nc1ccc(-c2nc(N3CCOCC3)c3cnn(C4CCN(C(=O)OC)CC4)c3n2)cc1	False
+392563:01:10_02.00	AKT_PI3K_MTOR	49.2	2.0	90	AZD8055	COc1ccc(-c2ccc3c(N4CCOC[C@@H]4C)nc(N4CCOC[C@@H]4C)nc3n2)cc1CO	False
+392604:01:09_02.00	AKT_PI3K_MTOR	41.6	2.0	96	OSI-027	COc1cccc2cc(-c3nc([C@H]4CC[C@H](C(=O)O)CC4)n4ncnc(N)c34)[nH]c12	False
+392616:01:09_00.20	AKT_PI3K_MTOR	51.5	0.2	90	WYE-132	CNC(=O)Nc1ccc(-c2nc(N3CC4CCC(C3)O4)c3cnn(C4CCC5(CC4)OCCO5)c3n2)cc1	False
+392630:01:09_02.00	AKT_PI3K_MTOR	44.0	2.0	90	GDC-0980 (RG7422)	Cc1c(CN2CCN(C(=O)[C@H](C)O)CC2)sc2c(N3CCOCC3)nc(-c3cnc(N)nc3)nc12	False
+392634:01:09_00.20	AKT_PI3K_MTOR	51.5	0.2	81	Sapanisertib	CC(C)n1nc(-c2ccc3oc(N)nc3c2)c2c(N)ncnc21	False
+392638:01:09_02.00	AKT_PI3K_MTOR	51.5	2.0	88	PF-04691502	COc1ccc(-c2cc3c(C)nc(N)nc3n([C@H]3CC[C@H](OCCO)CC3)c2=O)cn1	False
+392708:01:09_02.00	AKT_PI3K_MTOR	45.3	2.0	90	GDC-0349	CCNC(=O)Nc1ccc(-c2nc3c(c(N4CCOC[C@@H]4C)n2)CCN(C2COC2)C3)cc1	False
+392761:01:09_00.20	AKT_PI3K_MTOR	45.4	0.2	93	Zotarolimus(ABT-578)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@H](n3cnnn3)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	False
+392761:01:09_02.00	AKT_PI3K_MTOR	39.9	2.0	95	Zotarolimus(ABT-578)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@H](n3cnnn3)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	False
+392764:01:09_02.00	AKT_PI3K_MTOR	35.1	2.0	94	Temsirolimus (CCI-779, NSC 683864)	CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OC(=O)C(C)(CO)CO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C	False
+392893:01:08_10.00	AKT_PI3K_MTOR	25.2	10.0	89	Ipatasertib	CC(C)NC[C@@H](C(=O)N1CCN(c2ncnc3c2[C@H](C)C[C@H]3O)CC1)c1ccc(Cl)cc1	True
+392897:01:09_10.00	AKT_PI3K_MTOR	47.0	10.0	86	BAY 80-6946, Copanlisib	COc1c(OCCCN2CCOCC2)ccc2c1N=C(NC(=O)c1cnc(N)nc1)N1CCN=C21	False
+392897:01:10_03.00	AKT_PI3K_MTOR	51.5	3.0	84	BAY 80-6946, Copanlisib	COc1c(OCCCN2CCOCC2)ccc2c1N=C(NC(=O)c1cnc(N)nc1)N1CCN=C21	False
+392321:02:09_02.00	Aurora	27.6	2.0	70	ZM-447439	COc1cc2c(Nc3ccc(NC(=O)c4ccccc4)cc3)ncnc2cc1OCCCN1CCOCC1	False
+392321:03:03_02.00	Aurora	37.0	2.0	73	ZM-447439	COc1cc2c(Nc3ccc(NC(=O)c4ccccc4)cc3)ncnc2cc1OCCCN1CCOCC1	False
+392506:01:09_02.00	Aurora	17.3	2.0	72	Danusertib	CO[C@@H](C(=O)N1Cc2[nH]nc(NC(=O)c3ccc(N4CCN(C)CC4)cc3)c2C1)c1ccccc1	False
+392506:02:03_02.00	Aurora	25.4	2.0	63	Danusertib	CO[C@@H](C(=O)N1Cc2[nH]nc(NC(=O)c3ccc(N4CCN(C)CC4)cc3)c2C1)c1ccccc1	False
+392517:02:03_00.20	Aurora	40.8	0.2	78	AT9283	O=C(Nc1c[nH]nc1-c1nc2cc(CN3CCOCC3)ccc2[nH]1)NC1CC1	False
+392517:02:03_02.00	Aurora	32.5	2.0	67	AT9283	O=C(Nc1c[nH]nc1-c1nc2cc(CN3CCOCC3)ccc2[nH]1)NC1CC1	False
+392520:01:10_00.20	Aurora	14.7	0.2	83	Barasertib-HQPA	CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1	False
+392520:01:10_02.00	Aurora	32.8	2.0	71	Barasertib-HQPA	CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1	False
+392522:01:09_00.20	Aurora	38.9	0.2	75	SNS-314	O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1	False
+392522:01:09_02.00	Aurora	29.9	2.0	65	SNS-314	O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1	False
+392522:02:03_02.00	Aurora	30.6	2.0	60	SNS-314	O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1	False
+392595:01:09_00.20	Aurora	30.6	0.2	67	AMG 900	Cc1csc(-c2nnc(Nc3ccc(Oc4ncccc4-c4ccnc(N)n4)cc3)c3ccccc23)c1	False
+392595:01:09_02.00	Aurora	39.9	2.0	67	AMG 900	Cc1csc(-c2nnc(Nc3ccc(Oc4ncccc4-c4ccnc(N)n4)cc3)c3ccccc23)c1	False
+392643:01:09_02.00	Aurora	16.6	2.0	67	CCT 137690	Cc1cc(CN2CCN(c3c(Br)cnc4[nH]c(-c5ccc(N6CCN(C)CC6)cc5)nc34)CC2)no1	False
+409875:01:02_10.00	Aurora	49.1	10.0	63	CFI-400945	COc1ccc2c(c1)[C@]1(C[C@H]1c1ccc3c(/C=C/c4ccc(CN5C[C@H](C)O[C@H](C)C5)cc4)[nH]nc3c1)C(=O)N2	True
+410084:01:04_00.20	Aurora	27.6	0.2	74	BI-847325	CCNC(=O)C#Cc1ccc2c(/C(=N/c3ccc(CN(C)C)cc3)c3ccccc3)c(O)[nH]c2c1	False
+410084:01:05_00.20	Aurora	31.8	0.2	69	BI-847325	CCNC(=O)C#Cc1ccc2c(/C(=N/c3ccc(CN(C)C)cc3)c3ccccc3)c(O)[nH]c2c1	False
+410128:01:03_02.00	Aurora	40.6	2.0	61	SNS-314	O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1	False
+410632:01:03_02.00	Aurora	40.1	2.0	63	ENMD-2076 L-(+)-Tartaric acid	Cc1cc(Nc2cc(N3CCN(C)CC3)nc(/C=C/c3ccccc3)n2)n[nH]1	True
+410784:01:03_00.20	Aurora	27.3	0.2	77	Barasertib	CCN(CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1)CCOP(=O)(O)O	False
+410784:01:03_02.00	Aurora	32.3	2.0	70	Barasertib	CCN(CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1)CCOP(=O)(O)O	False
+410914:01:03_00.20	Aurora	33.2	0.2	80	GSK-1070916	CCn1cc(-c2ccnc3[nH]c(-c4cccc(CN(C)C)c4)cc23)c(-c2ccc(NC(=O)N(C)C)cc2)n1	False
+409850:01:02_10.00	BET	43.0	10.0	93	PFI-1	COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)CN(C)C(=O)N2	False
+409850:02:04_10.00	BET	37.7	10.0	99	PFI-1	COc1ccccc1S(=O)(=O)Nc1ccc2c(c1)CN(C)C(=O)N2	False
+410668:01:03_02.00	BET	46.1	2.0	95	(+)-JQ-1	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)OC(C)(C)C)c1nnc(C)n1-2	True
+410668:02:03_00.20	BET	38.2	0.2	100	(+)-JQ-1	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)OC(C)(C)C)c1nnc(C)n1-2	True
+410668:02:03_02.00	BET	62.0	2.0	93	(+)-JQ-1	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)OC(C)(C)C)c1nnc(C)n1-2	True
+410825:01:03_00.20	BET	32.0	0.2	96	Birabresib	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)Nc1ccc(O)cc1)c1nnc(C)n1-2	False
+410827:01:03_00.20	BET	32.1	0.2	94	PLX51107	Cc1noc(C)c1-c1cnc2c(-c3ccc(C(=O)O)cc3)cn([C@@H](C)c3ccccn3)c2c1	False
+410827:01:03_02.00	BET	53.5	2.0	96	PLX51107	Cc1noc(C)c1-c1cnc2c(-c3ccc(C(=O)O)cc3)cn([C@@H](C)c3ccccn3)c2c1	False
+410837:01:03_00.20	BET	39.0	0.2	102	GSK1324726A	CC(=O)N1c2ccc(-c3ccc(C(=O)O)cc3)cc2[C@H](Nc2ccc(Cl)cc2)C[C@@H]1C	False
+410840:01:03_00.20	BET	53.4	0.2	96	MS417	COC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c2c(sc(C)c2C)-n2c(C)nnc21	False
+410840:01:03_02.00	BET	53.5	2.0	103	MS417	COC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c2c(sc(C)c2C)-n2c(C)nnc21	False
+410851:01:03_02.00	BET	56.1	2.0	98	I-BET151	COc1cc2c(cc1-c1c(C)noc1C)ncc1nc(O)n([C@H](C)c3ccccn3)c12	False
+410861:01:03_02.00	BET	50.6	2.0	103	Bromosporine	CCOC(=O)Nc1cc(-c2ccc(C)c(NS(C)(=O)=O)c2)nn2c(C)nnc12	False
+410883:01:03_02.00	BET	41.1	2.0	94	Y06036	COc1cc2onc(C)c2cc1NS(=O)(=O)c1cc(Br)ccc1OC	False
+410884:01:03_00.20	BET	52.5	0.2	95	CF53	COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(Nc3cc(C4CC4)nn3C)c12	False
+410885:01:03_02.00	BET	48.4	2.0	99	BAY1238097	CNC(=O)N1N=C(c2ccc(N3CCN(C)CC3)cc2)c2cc(OC)c(OC)cc2C[C@@H]1C	False
+410900:01:03_00.20	BET	37.0	0.2	100	CPI-203	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(N)=O)c1nnc(C)n1-2	False
+410900:01:03_02.00	BET	60.6	2.0	92	CPI-203	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(N)=O)c1nnc(C)n1-2	False
+410905:01:03_00.20	BET	28.3	0.2	101	ABBV-744	CCNC(=O)c1cc2c(-c3cc(C(C)(C)O)ccc3Oc3c(C)cc(F)cc3C)cn(C)c(O)c-2n1	False
+410924:01:03_00.20	BET	61.1	0.2	87	ARV-771	Cc1ncsc1-c1ccc([C@H](C)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)COCCCOCCNC(=O)C[C@@H]2N=C(c3ccc(Cl)cc3)c3c(sc(C)c3C)-n3c(C)nnc32)C(C)(C)C)cc1	False
+410925:01:03_00.20	BET	31.1	0.2	97	(Rac)-BAY1238097	CNC(=O)N1N=C(c2ccc(N3CCN(C)CC3)cc2)c2cc(OC)c(OC)cc2CC1C	False
+410941:01:03_00.20	BET	49.1	0.2	94	BET bromodomain inhibitor	Cc1noc2c1-c1ccc(-c3cnn(C)c3)cc1C(c1ccc(Cl)cc1)=N[C@H]2CC(N)=O	False
+410941:01:03_02.00	BET	57.0	2.0	108	BET bromodomain inhibitor	Cc1noc2c1-c1ccc(-c3cnn(C)c3)cc1C(c1ccc(Cl)cc1)=N[C@H]2CC(N)=O	False
+410946:01:03_00.20	BET	37.0	0.2	95	INCB054329	Cc1noc(C)c1-c1ccc2nc(O)n3c2c1OC[C@@H]3c1ccccn1	False
+410946:01:03_02.00	BET	53.9	2.0	105	INCB054329	Cc1noc(C)c1-c1ccc2nc(O)n3c2c1OC[C@@H]3c1ccccn1	False
+410947:01:03_00.20	BET	46.3	0.2	98	(+)-JQ1 PA	C#CCNC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c2c(sc(C)c2C)-n2c(C)nnc21	False
+410947:01:03_02.00	BET	54.9	2.0	93	(+)-JQ1 PA	C#CCNC(=O)C[C@@H]1N=C(c2ccc(Cl)cc2)c2c(sc(C)c2C)-n2c(C)nnc21	False
+410954:01:03_02.00	BET	32.3	2.0	96	(S)-JQ-35	Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)NCCCN1CCN(C)CC1)c1nnc(C)n1-2	False
+410968:01:03_00.20	BET	40.9	0.2	100	HJB97	CCn1nc(C2CC2)cc1Nc1nc(C(=O)NC)nc2[nH]c3cc(-c4c(C)noc4C)c(OC)cc3c12	False
+410999:01:03_00.20	BET	60.6	0.2	89	Mivebresib	CCS(=O)(=O)Nc1ccc(Oc2ccc(F)cc2F)c(-c2cn(C)c(O)c3nccc2-3)c1	False
+411007:01:03_00.20	BET	54.4	0.2	95	INCB-057643	CN1C(=O)C(C)(C)Oc2c(-c3cn(C)c(O)c4nccc3-4)cc(S(C)(=O)=O)cc21	False
+246366:01:04_10.00	DNA_Synth	29.9	10.0	69	Topotecan	CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1	True
+246389:01:04_10.00	DNA_Synth	33.5	10.0	71	Cladribine	Nc1nc(Cl)nc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1	True
+246660:01:04_10.00	DNA_Synth	39.7	10.0	60	Gemcitabine	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1	True
+246660:01:04_30.00	DNA_Synth	30.9	30.0	73	Gemcitabine	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1	True
+246719:01:04_10.00	DNA_Synth	29.9	10.0	69	Fludarabine	Nc1nc(F)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O	True
+246719:01:04_30.00	DNA_Synth	24.4	30.0	76	Fludarabine	Nc1nc(F)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O	True
+246755:01:04_10.00	DNA_Synth	32.6	10.0	69	Trifluridine	O=c1[nH]c(=O)n([C@H]2C[C@H](O)[C@@H](CO)O2)cc1C(F)(F)F	True
+246785:01:04_10.00	DNA_Synth	41.5	10.0	67	Cytarabine	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1	True
+247186:01:04_10.00	DNA_Synth	37.8	10.0	82	Ciclopirox (olamine)	Cc1cc(C2CCCCC2)n(O)c(=O)c1	False
+247256:01:04_10.00	DNA_Synth	36.3	10.0	80	Deferoxamine mesylate	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	False
+247256:01:04_30.00	DNA_Synth	45.6	30.0	88	Deferoxamine mesylate	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	False
+247256:01:06_03.00	DNA_Synth	21.4	3.0	91	Deferoxamine mesylate	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	False
+247256:03:04_06.00	DNA_Synth	24.9	6.0	105	Deferoxamine mesylate	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	False
+247256:03:04_10.00	DNA_Synth	24.5	10.0	80	Deferoxamine mesylate	CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN	False
+247284:01:04_30.00	DNA_Synth	27.1	30.0	69	Vidarabine	Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O	True
+280158:01:04_30.00	DNA_Synth	45.6	30.0	67	ARP 101	CC(C)ON([C@@H](C(=O)NO)C(C)C)S(=O)(=O)c1ccc(-c2ccccc2)cc1	False
+280184:01:03_10.00	DNA_Synth	25.4	10.0	91	PAC-1	C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O	False
+280184:01:03_30.00	DNA_Synth	48.4	30.0	72	PAC-1	C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O	False
+280184:02:04_06.00	DNA_Synth	19.2	6.0	80	PAC-1	C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O	False
+280184:02:04_10.00	DNA_Synth	26.9	10.0	79	PAC-1	C=CCc1cccc(/C=N/NC(=O)CN2CCN(Cc3ccccc3)CC2)c1O	False
+280293:01:03_10.00	DNA_Synth	33.5	10.0	68	Ancitabine hydrochloride, Cyclocytidine hydrochloride, Cyclo-C	N=c1ccn2c(n1)OC1[C@@H](O)[C@@H](CO)O[C@H]12	False
+280420:01:03_10.00	DNA_Synth	29.4	10.0	63	Cytosine-1-beta-D-arabinofuranoside hydrochloride, Arabinocytidine hydrochloride, Arabinosylcytosine hydrochloride, Ara-C hydrochloride	Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1	False
+280865:01:03_10.00	DNA_Synth	44.2	10.0	71	o-Phenanthroline	c1cnc2c(c1)ccc1cccnc12	False
+280907:01:03_30.00	DNA_Synth	17.6	30.0	74	(±)-6-Chloro-PB hydrobromide, (±)-SKF-81297 hydrobromide	Oc1cc2c(c(Cl)c1O)CCNCC2c1ccccc1	False
+392341:01:02_00.20	DNA_Synth	14.9	0.2	93		CC(C)N1CCC(n2cnc(-c3ccc(F)cc3)c2-c2ccnc(N)n2)CC1	False
+392511:01:09_02.00	DNA_Synth	22.3	2.0	90	Palbociclib (hydrochloride)	CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O	False
+407753:01:02_10.00	DNA_Synth	38.2	10.0	75	SP2509	C/C(=N\NC(=O)c1cccc(S(=O)(=O)N2CCOCC2)c1)c1cc(Cl)ccc1O	False
+407753:02:03_02.00	DNA_Synth	24.7	2.0	85	SP2509	C/C(=N\NC(=O)c1cccc(S(=O)(=O)N2CCOCC2)c1)c1cc(Cl)ccc1O	False
+408119:01:03_10.00	DNA_Synth	26.8	10.0	75	Gemcitabine HCl, LY188011	Nc1ccn([C@@H]2O[C@H](CO)C(O)C2(F)F)c(=O)n1	True
+246688:01:04_10.00	HDAC	59.1	10.0	64	Vorinostat	O=C(CCCCCCC(=O)Nc1ccccc1)NO	False
+246688:01:04_30.00	HDAC	66.3	30.0	59	Vorinostat	O=C(CCCCCCC(=O)Nc1ccccc1)NO	False
+246688:01:12_03.00	HDAC	52.8	3.0	73	Vorinostat	O=C(CCCCCCC(=O)Nc1ccccc1)NO	False
+392531:01:09_02.00	HDAC	52.2	2.0	75	CUDC-101	C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCCC(=O)NO)cc23)c1	False
+392651:01:09_00.20	HDAC	64.4	0.2	67	Fimepinostat	COc1ccc(-c2nc(N3CCOCC3)c3sc(CN(C)c4ncc(C(=O)NO)cn4)cc3n2)cn1	False
+392651:01:09_02.00	HDAC	74.3	2.0	61	Fimepinostat	COc1ccc(-c2nc(N3CCOCC3)c3sc(CN(C)c4ncc(C(=O)NO)cn4)cc3n2)cn1	False
+409838:01:04_10.00	HDAC	54.9	10.0	75	ACY-738	O=C(NO)c1cnc(NC2(c3ccccc3)CC2)nc1	False
+409879:01:02_02.00	HDAC	68.9	2.0	63	Romidepsin	C/C=C1\NC(=O)[C@H]2CSSCC/C=C/[C@H](CC(=O)N[C@H](C(C)C)C(=O)N2)OC(=O)[C@H](C(C)C)NC1=O	True
+409879:01:05_00.20	HDAC	69.1	0.2	74	Romidepsin	C/C=C1\NC(=O)[C@H]2CSSCC/C=C/[C@H](CC(=O)N[C@H](C(C)C)C(=O)N2)OC(=O)[C@H](C(C)C)NC1=O	True
+409947:02:03_02.00	HDAC	54.7	2.0	80	Belinostat	O=C(/C=C/c1cccc(S(=O)(=O)Nc2ccccc2)c1)NO	False
+410069:01:03_02.00	HDAC	63.4	2.0	76	CAY10603	CC(C)(C)OC(=O)Nc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)cc1	False
+410069:01:05_00.60	HDAC	45.6	0.6	94	CAY10603	CC(C)(C)OC(=O)Nc1ccc(-c2cc(C(=O)NCCCCCCC(=O)NO)no2)cc1	False
+410801:01:04_00.20	HDAC	57.0	0.2	75	Panobinostat	Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1	False
+410801:01:04_02.00	HDAC	65.3	2.0	68	Panobinostat	Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1	False
+410803:01:03_00.20	HDAC	63.6	0.2	70	Quisinostat	Cn1cc(CNCC2CCN(c3ncc(C(=O)NO)cn3)CC2)c2ccccc21	False
+410803:01:03_02.00	HDAC	61.3	2.0	68	Quisinostat	Cn1cc(CNCC2CCN(c3ncc(C(=O)NO)cn3)CC2)c2ccccc21	False
+410804:01:03_00.20	HDAC	49.2	0.2	79	Trichostatin A	CC(/C=C/C(=O)NO)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1	False
+410804:01:03_02.00	HDAC	58.7	2.0	66	Trichostatin A	CC(/C=C/C(=O)NO)=C\[C@@H](C)C(=O)c1ccc(N(C)C)cc1	False
+410806:01:03_02.00	HDAC	28.0	2.0	94	Ricolinostat	O=C(CCCCCCNC(=O)c1cnc(N(c2ccccc2)c2ccccc2)nc1)NO	False
+410811:01:03_00.20	HDAC	22.8	0.2	92	Scriptaid	O=C(CCCCCN1C(=O)c2cccc3cccc(c23)C1=O)NO	False
+410811:01:03_02.00	HDAC	52.3	2.0	78	Scriptaid	O=C(CCCCCN1C(=O)c2cccc3cccc(c23)C1=O)NO	False
+410824:01:03_02.00	HDAC	62.2	2.0	66	Dacinostat	O=C(/C=C/c1ccc(CN(CCO)CCc2c[nH]c3ccccc23)cc1)NO	False
+410843:01:03_00.20	HDAC	32.8	0.2	87	Pracinostat	CCCCc1nc2cc(/C=C/C(=O)NO)ccc2n1CCN(CC)CC	False
+410843:01:03_02.00	HDAC	55.8	2.0	73	Pracinostat	CCCCc1nc2cc(/C=C/C(=O)NO)ccc2n1CCN(CC)CC	False
+410856:01:03_02.00	HDAC	56.5	2.0	72	HDAC-IN-3	O=C(CCc1ccc(CN[C@H](C(=O)OC2CCCC2)C2CCCCC2)cn1)NO	False
+410879:01:03_00.20	HDAC	38.7	0.2	95	Givinostat (hydrochloride monohydrate)	CCN(CC)Cc1ccc2cc(COC(=O)Nc3ccc(C(=O)NO)cc3)ccc2c1	False
+410879:01:03_02.00	HDAC	68.0	2.0	72	Givinostat (hydrochloride monohydrate)	CCN(CC)Cc1ccc2cc(COC(=O)Nc3ccc(C(=O)NO)cc3)ccc2c1	False
+410916:01:03_00.20	HDAC	33.0	0.2	88	M344	CN(C)c1ccc(C(=O)NCCCCCCC(=O)NO)cc1	False
+410990:01:03_00.20	HDAC	34.2	0.2	95	LMK-235	Cc1cc(C)cc(C(=O)NOCCCCCC(=O)NO)c1	False
+410990:01:03_02.00	HDAC	55.4	2.0	80	LMK-235	Cc1cc(C)cc(C(=O)NOCCCCCC(=O)NO)c1	False
+410102:01:03_02.00	HSP90	45.9	2.0	71	PU-H71	CC(C)NCCCn1c(Sc2cc3c(cc2I)OCO3)nc2c(N)ncnc21	False
+410608:01:03_02.00	HSP90	48.9	2.0	68	Tanespimycin (17-AAG)	C=CC/N=C1/C(=O)C=C2NC(=O)/C(C)=C/C=C\[C@H](OC)[C@@H](OC(N)=O)/C(C)=C/[C@H](C)[C@@H](O)[C@@H](OC)C[C@H](C)CC1=C2O	True
+410702:01:03_02.00	HSP90	44.9	2.0	65	Luminespib	CCNC(=O)c1noc(-c2cc(C(C)C)c(O)cc2O)c1-c1ccc(CN2CCOCC2)cc1	False
+410733:01:03_02.00	HSP90	30.4	2.0	71	NVP-HSP990	COc1cccc(-c2cc(F)ccc2[C@H]2Cc3nc(N)nc(C)c3C(=O)N2)n1	True
+246344:01:04_30.00	LCH	63.6	30.0	98	Drofenine hydrochloride	CCN(CC)CCOC(=O)C(c1ccccc1)C1CCCCC1	False
+246481:01:04_10.00	LCH	56.5	10.0	94	DO 897/99	COc1ccccc1N1CCN(CCCCNC(=O)c2ccc3ccccc3c2)CC1	False
+246507:01:04_30.00	LCH	34.7	30.0	94	Chloropyramine hydrochloride	CN(C)CCN(Cc1ccc(Cl)cc1)c1ccccn1	False
+246537:01:04_30.00	LCH	59.8	30.0	95	Dimethisoquin hydrochloride	CCCCc1cc2ccccc2c(OCCN(C)C)n1	False
+246604:01:04_30.00	LCH	79.3	30.0	91	Penbutolol sulfate	CC(C)(C)NCC(O)COc1ccccc1C1CCCC1	False
+246739:01:09_03.00	LCH	44.0	3.0	93	Sertraline	CN[C@H]1CC[C@@H](c2ccc(Cl)c(Cl)c2)c2ccccc21	True
+246746:01:04_30.00	LCH	67.9	30.0	99	Cyproheptadine (hydrochloride)	CN1CCC(=C2c3ccccc3C=Cc3ccccc32)CC1	False
+246889:01:05_10.00	LCH	63.7	10.0	98	Loperamide (hydrochloride)	CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1	False
+246940:01:04_30.00	LCH	40.9	30.0	96	Alverine (citrate)	CCN(CCCc1ccccc1)CCCc1ccccc1	False
+247042:02:03_10.00	LCH	66.8	10.0	92	Pimozide	O=c1[nH]c2ccccc2n1C1CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1	False
+247050:03:03_10.00	LCH	56.5	10.0	108	Fluphenazine dihydrochloride	OCCN1CCN(CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1	False
+247164:01:04_10.00	LCH	60.1	10.0	101	Bromperidol	O=C(CCCN1CCC(O)(c2ccc(Br)cc2)CC1)c1ccc(F)cc1	False
+247165:02:03_10.00	LCH	47.5	10.0	101	Fluoxetine hydrochloride, Prozac	CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1	False
+247177:02:03_10.00	LCH	45.3	10.0	100	Triflupromazine (hydrochloride)	CN(C)CCCN1c2ccccc2Sc2ccc(C(F)(F)F)cc21	False
+247234:01:04_30.00	LCH	76.2	30.0	92	Promazine hydrochloride	CN(C)CCCN1c2ccccc2Sc2ccccc21	False
+247241:01:04_30.00	LCH	51.8	30.0	93	Chlorcyclizine hydrochloride	CN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1	False
+247242:01:04_30.00	LCH	27.3	30.0	98	Diphenylpyraline hydrochloride	CN1CCC(OC(c2ccccc2)c2ccccc2)CC1	False
+247293:01:04_30.00	LCH	68.2	30.0	97	Proadifen (hydrochloride)	CCCC(C(=O)OCCN(CC)CC)(c1ccccc1)c1ccccc1	False
+247331:01:04_30.00	LCH	54.2	30.0	97	Ethopropazine hydrochloride	CCN(CC)C(C)CN1c2ccccc2Sc2ccccc21	False
+247369:02:03_10.00	LCH	67.7	10.0	104	Fluspirilene	O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2	False
+247369:02:05_03.00	LCH	57.2	3.0	101	Fluspirilene	O=C1NCN(c2ccccc2)C12CCN(CCCC(c1ccc(F)cc1)c1ccc(F)cc1)CC2	False
+247423:01:04_30.00	LCH	59.9	30.0	102	Pizotyline malate	CN1CCC(=C2c3ccccc3CCc3sccc32)CC1	False
+280128:01:07_03.00	LCH	59.9	3.0	94	U-73343	COc1ccc2c(c1)CCC1C2CC[C@@]2(C)C1CC[C@@H]2NCCCCCCN1C(=O)CCC1=O	False
+280575:01:09_03.00	LCH	74.8	3.0	96	GR 127935 hydrochloride	COc1ccc(NC(=O)c2ccc(-c3ccc(-c4noc(C)n4)cc3C)cc2)cc1N1CCN(C)CC1	False
+280660:01:03_10.00	LCH	63.9	10.0	86	L-703,606, oxalate	Ic1ccccc1CNC1C2CCN(CC2)C1C(c1ccccc1)c1ccccc1	False
+280690:01:03_10.00	LCH	53.4	10.0	97	Methiothepin mesylate	CSc1ccc2c(c1)C(N1CCN(C)CC1)Cc1ccccc1S2	False
+280751:01:03_30.00	LCH	37.1	30.0	105	Naltrindole hydrochloride, NTI hydrochloride	Oc1ccc2c3c1O[C@H]1c4[nH]c5ccccc5c4C[C@@]4(O)C(C2)N(CC2CC2)CCC314	False
+280789:01:03_10.00	LCH	52.3	10.0	103	(±)-Octoclothepin maleate	CN1CCN(C2Cc3ccccc3Sc3ccc(Cl)cc32)CC1	False
+280850:01:03_10.00	LCH	43.2	10.0	90	Propionylpromazine hydrochloride	CCC(=O)c1ccc2c(c1)N(CCCN(C)C)c1ccccc1S2	False
+280918:01:08_03.00	LCH	37.7	3.0	96	Cortexolone maleate	COc1ccccc1N1CCN(CCCCNS(=O)(=O)c2cccc3c(N(C)C)cccc23)CC1	False
+280968:01:03_10.00	LCH	35.8	10.0	91	Trifluperidol hydrochloride, R 2498 hydrochloride, Triperidol hydrochloride	O=C(CCCN1CCC(O)(c2cccc(C(F)(F)F)c2)CC1)c1ccc(F)cc1	False
+281022:01:03_30.00	LCH	52.8	30.0	104	(-)-cis-(1S,2R)-U-50488 tartrate	CN(C(=O)Cc1ccc(Cl)c(Cl)c1)[C@@H]1CCCC[C@@H]1N1CCCC1	False
+287906:02:15_30.00	LCH	65.3	30.0	91	Pipinib	COC(=O)c1ccc(Nc2nc(NC(C)C)nc3ccsc23)cc1	False
+350306:01:04_03.00	LCH	43.9	3.0	97	SAG	CN[C@H]1CC[C@H](N(Cc2cccc(-c3ccncc3)c2)C(=O)c2sc3ccccc3c2Cl)CC1	False
+391878:01:02_02.00	LCH	78.4	2.0	93		CN(C)CCOc1ccc(-c2cc(-c3ccc4c(c3)CC/C4=N\O)c(-c3ccncc3)o2)cc1	False
+392527:02:04_06.00	LCH	61.8	6.0	98	WZ4002	C=CC(=O)Nc1cccc(Oc2nc(Nc3ccc(N4CCN(C)CC4)cc3OC)ncc2Cl)c1	False
+392660:02:06_03.00	LCH	70.1	3.0	102	NVP-AEW541	Nc1ncnc2c1c(-c1cccc(OCc3ccccc3)c1)cn2[C@H]1C[C@@H](CN2CCC2)C1	False
+392675:01:09_02.00	LCH	48.0	2.0	101	IKK 16	O=C(c1ccc(Nc2nccc(-c3cc4ccccc4s3)n2)cc1)N1CCC(N2CCCC2)CC1	False
+394120:01:07_10.00	LCH	78.9	10.0	105	Autoquin	C=CC1CN2CCC1CC2[C@@H](O)c1cc(-c2ccc(F)cc2)nc2ccc(OC)cc12	True
+409856:01:05_03.00	LCH	42.7	3.0	102	GSK343	CCCc1cc(C)nc(O)c1CNC(=O)c1cc(-c2ccnc(N3CCN(C)CC3)c2)cc2c1cnn2C(C)C	False
+409873:01:03_01.00	LCH	51.6	1.0	100	LLY-507	Cc1cn(CCN2CCN(c3ccccc3-c3cc(C#N)cc(C(=O)NCCCN4CCCC4)c3)CC2)c2ccccc12	False
+409873:01:04_01.00	LCH	43.0	1.0	111	LLY-507	Cc1cn(CCN2CCN(c3ccccc3-c3cc(C#N)cc(C(=O)NCCCN4CCCC4)c3)CC2)c2ccccc12	False
+410147:01:04_06.00	LCH	78.1	6.0	98	Ozanimod	CC(C)Oc1ccc(-c2nc(-c3cccc4c3CC[C@@H]4NCCO)no2)cc1C#N	True
+410285:01:03_03.00	LCH	34.9	3.0	100	Nemiralisib	CC(C)N1CCN(Cc2cnc(-c3cc(-c4cccc5[nH]ccc45)cc4[nH]ncc34)o2)CC1	False
+412258:01:03_10.00	LCH	50.4	10.0	101	ACBI1	Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)C2(F)CC2)C(C)(C)C)c(OCCOc2ccc(CN3CCN(c4cc(-c5ccccc5O)nnc4N)CC3)cc2)c1	True
+412258:01:08_10.00	LCH	59.1	10.0	91	ACBI1	Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)C2(F)CC2)C(C)(C)C)c(OCCOc2ccc(CN3CCN(c4cc(-c5ccccc5O)nnc4N)CC3)cc2)c1	True
+412270:01:03_10.00	LCH	56.8	10.0	93	cis-ACBI1	Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@H](O)CN2C(=O)[C@@H](NC(=O)C2(F)CC2)C(C)(C)C)c(OCCOc2ccc(CN3CCN(c4cc(-c5ccccc5O)nnc4N)CC3)cc2)c1	True
+412483:01:04_03.00	LCH	67.2	3.0	94		COc1cc(-c2cn(C)c(=O)c3cnccc23)cc(OC)c1CN1CCN(CCCCCOc2cc(-c3scnc3C)ccc2CNC(=O)[C@@H]2C[C@H](O)CN2C(=O)[C@@H](NC(=O)C2(F)CC2)C(C)(C)C)CC1	True
+413119:01:04_10.00	LCH	43.7	10.0	100	A 987306	Nc1nc2c(c(N3CCNCC3)n1)CCC1=C2[C@@H]2CCCC[C@@H]2O1	True
+246551:01:04_10.00	Na_K-ATPase	39.9	10.0	53	Proscillaridin;A	C[C@@H]1O[C@@H](O[C@@H]2C=C3CC[C@@H]4[C@H](CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)[C@H](O)[C@H](O)[C@H]1O	False
+247128:01:07_03.00	Na_K-ATPase	42.8	3.0	53	Digitoxigenin	C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](C3=CC(=O)OC3)CC[C@]12O	True
+247221:01:04_10.00	Na_K-ATPase	42.5	10.0	50	Lanatoside C	CC(=O)O[C@H]1C[C@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@]5(C)[C@H]6C[C@@H](O)[C@]7(C)[C@@H](C8=CC(=O)OC8)CC[C@]7(O)[C@@H]6CC[C@@H]5C4)O[C@@H]3C)O[C@@H]2C)O[C@H](C)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O	True
+247358:01:05_30.00	Na_K-ATPase	44.4	30.0	53	Digoxigenin	C[C@]12CC[C@H](O)C[C@H]1CC[C@@H]1[C@@H]2C[C@@H](O)[C@]2(C)[C@@H](C3=CC(=O)OC3)CC[C@]12O	False
+280470:01:03_30.00	Na_K-ATPase	50.6	30.0	50	Dihydroouabain	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@@H]4C(CC[C@]3(O)C2)[C@@]2(O)CC[C@H](C3COC(=O)C3)[C@@]2(C)C[C@H]4O)[C@H](O)[C@H](O)[C@H]1O	False
+280796:01:03_10.00	Na_K-ATPase	61.1	10.0	50	Ouabain, Acocantherine	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O	False
+339765:02:03_02.00	Na_K-ATPase	61.8	2.0	53	Ouabain (Octahydrate)	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O	True
+339765:02:04_00.60	Na_K-ATPase	50.8	0.6	55	Ouabain (Octahydrate)	C[C@@H]1O[C@@H](O[C@H]2C[C@@H](O)[C@]3(CO)[C@H]4[C@H](O)C[C@]5(C)[C@@H](C6=CC(=O)OC6)CC[C@]5(O)[C@@H]4CC[C@]3(O)C2)[C@H](O)[C@H](O)[C@H]1O	True
+247300:01:15_01.00	Protein_Synth	46.6	1.0	73	Cycloheximide	C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1	False
+247300:01:15_03.00	Protein_Synth	46.3	3.0	63	Cycloheximide	C[C@H]1C[C@H](C)C(=O)[C@H]([C@H](O)CC2CC(=O)NC(=O)C2)C1	False
+280533:01:10_01.00	Protein_Synth	57.5	1.0	59	Emetine dihydrochloride hydrate	CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21	False
+344003:01:03_10.00	Pyrimidine_Synth	40.6	10.0	82		O=C(Nc1cccnc1)N1Cc2cccc(c2)CN(S(=O)(=O)C(F)(F)F)CC/C=C/C[C@@H]1CO	False
+404607:01:10_10.00	Pyrimidine_Synth	45.9	10.0	73	Myxothiazol	CO/C(=C\C(N)=O)[C@H](C)[C@H](/C=C/c1csc(-c2csc([C@@H](C)/C=C/C=C/C(C)C)n2)n1)OC	True
+407438:01:05_10.00	Pyrimidine_Synth	35.8	10.0	89	Brequinar sodium salt hydrate, Biphenquinate sodium hydrate, DuP 785 hydrate	Cc1c(-c2ccc(-c3ccccc3F)cc2)nc2ccc(F)cc2c1C(=O)O	False
+408385:01:05_10.00	Pyrimidine_Synth	45.1	10.0	88		Brc1ccc2[nH]c3c(c2c1)CCOC31CCCCC1	False
+409966:01:11_10.00	Pyrimidine_Synth	34.2	10.0	81		COc1cc(OC)c2c(c1Cl)OC1(CCC3(CC1C)OCCc1c3[nH]c3ccc(C)cc13)C2=O	False
+411901:01:02_10.00	Pyrimidine_Synth	51.6	10.0	90		CN1C(=O)C2(C(=O)N(Cc3ccncc3)c3ccc(OC(F)(F)F)cc32)c2ccccc21	False
+412368:01:08_03.00	Pyrimidine_Synth	39.0	3.0	94		COc1ccc2[nH]c3c(c2c1)CCOC31CC[C@@]2(Oc3c(Cl)c(OC)cc(OC)c3C2=O)[C@H](C)C1	True
+413192:01:02_01.00	Pyrimidine_Synth	32.3	1.0	90		Cc1c(Oc2c(F)cccc2F)c(OC(C)C)nn1-c1ncc(C2CC2)cc1F	False
+413192:01:02_05.00	Pyrimidine_Synth	42.3	5.0	88		Cc1c(Oc2c(F)cccc2F)c(OC(C)C)nn1-c1ncc(C2CC2)cc1F	False
+104614:02:17_30.00	Tubulin	63.7	30.0	66	Tubulexin A	COc1ccc(CC[C@H]2C[C@@H](OC(C)=O)C[C@@H](c3ccc(OCc4ccccc4)c(O)c3)O2)cc1	False
+245354:03:12_00.10	Tubulin	58.2	0.1	67	Nocodazole	COC(=O)Nc1nc2cc(C(=O)c3cccs3)ccc2[nH]1	False
+246557:01:04_30.00	Tubulin	67.4	30.0	52	Methiazole	COC(=O)Nc1nc2cc(SC(C)C)ccc2[nH]1	False
+246702:01:04_30.00	Tubulin	27.6	30.0	69	Flubendazole	COC(=O)Nc1nc2cc(C(=O)c3ccc(F)cc3)ccc2[nH]1	False
+246876:01:04_10.00	Tubulin	21.1	10.0	86	Ethynyl Estradiol	C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C	True
+246876:01:04_30.00	Tubulin	67.0	30.0	69	Ethynyl Estradiol	C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C	True
+246898:01:04_30.00	Tubulin	57.2	30.0	66	Oxfendazole	COC(=O)Nc1nc2cc(S(=O)c3ccccc3)ccc2[nH]1	False
+246967:01:04_30.00	Tubulin	69.6	30.0	52	Fenbendazole	COC(=O)Nc1nc2cc(Sc3ccccc3)ccc2[nH]1	False
+246972:01:08_01.00	Tubulin	53.5	1.0	55	Mebendazole	COC(=O)Nc1nc2cc(C(=O)c3ccccc3)ccc2[nH]1	False
+246972:12:05_00.60	Tubulin	50.6	0.6	71	Mebendazole	COC(=O)Nc1nc2cc(C(=O)c3ccccc3)ccc2[nH]1	False
+246980:07:05_50.00	Tubulin	34.2	50.0	68	Griseofulvin	COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O	True
+246980:07:08_30.00	Tubulin	36.6	30.0	75	Griseofulvin	COC1=CC(=O)C[C@@H](C)[C@]12Oc1c(Cl)c(OC)cc(OC)c1C2=O	True
+246994:01:07_01.00	Tubulin	65.8	1.0	58	Albendazole	CCCSc1ccc2[nH]c(NC(=O)OC)nc2c1	False
+247133:01:04_30.00	Tubulin	20.2	30.0	84	Estradiol	C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O	True
+280418:01:03_10.00	Tubulin	45.4	10.0	77	7-Chloro-4-hydroxy-2-phenyl-1,8-naphthyridine	Oc1cc(-c2ccccc2)nc2nc(Cl)ccc12	False
+280418:01:03_30.00	Tubulin	61.1	30.0	63	7-Chloro-4-hydroxy-2-phenyl-1,8-naphthyridine	Oc1cc(-c2ccccc2)nc2nc(Cl)ccc12	False
+280630:01:11_01.00	Tubulin	12.1	1.0	91	IC261	COc1cc(OC)c(/C=C2/C(=O)Nc3ccccc32)c(OC)c1	False
+280630:01:11_03.00	Tubulin	64.4	3.0	66	IC261	COc1cc(OC)c(/C=C2/C(=O)Nc3ccccc32)c(OC)c1	False
+280897:07:06_01.00	Tubulin	51.5	1.0	55	Rotenone	C=C(C)[C@H]1Cc2c(ccc3c2O[C@@H]2COc4cc(OC)c(OC)cc4[C@@H]2C3=O)O1	True
+280954:01:03_10.00	Tubulin	72.9	10.0	53	SKF-96365	COc1ccc(CCCOC(Cn2ccnc2)c2ccc(OC)cc2)cc1	False
+280954:01:07_03.00	Tubulin	30.7	3.0	79	SKF-96365	COc1ccc(CCCOC(Cn2ccnc2)c2ccc(OC)cc2)cc1	False
+391925:02:09_00.20	Tubulin	37.7	0.2	77	TCS JNK 5a	N#Cc1c(NC(=O)c2cccc3ccccc23)sc2c1CCCC2	False
+391925:03:04_00.60	Tubulin	81.0	0.6	54	TCS JNK 5a	N#Cc1c(NC(=O)c2cccc3ccccc23)sc2c1CCCC2	False
+391925:03:05_00.20	Tubulin	73.7	0.2	62	TCS JNK 5a	N#Cc1c(NC(=O)c2cccc3ccccc23)sc2c1CCCC2	False
+409809:01:02_10.00	Tubulin	70.3	10.0	89		CCN(CC)S(=O)(=O)Nc1cccc(-c2ccc3c(NC(=O)C4CC4)n[nH]c3c2)c1	False
+409915:01:02_10.00	Tubulin	63.7	10.0	72	TP-472	CC(=O)c1cc(-c2cc(C(=O)NC3CC3)ccc2C)c2ncccn12	False
+410065:02:03_00.20	Tubulin	50.4	0.2	78	Domatinostat	Cn1cc(-c2ccc(S(=O)(=O)n3ccc(/C=C/C(=O)Nc4ccccc4N)c3)cc2)cn1	False
+410072:01:03_02.00	Tubulin	17.8	2.0	83	TH287	CNc1cc(-c2cccc(Cl)c2Cl)nc(N)n1	False
+410074:01:03_02.00	Tubulin	46.1	2.0	68	SB225002	O=C(Nc1ccc([N+](=O)[O-])cc1O)Nc1ccccc1Br	False
+410129:01:03_02.00	Tubulin	53.4	2.0	85	Anlotinib (AL3818) dihydrochloride	COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ccnc2cc1OCC1(N)CC1	False
+410613:01:03_02.00	Tubulin	66.1	2.0	72	2-Methoxyestradiol (2-MeOE2)	COc1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12	True
+410748:01:04_06.00	Tubulin	58.4	6.0	76	TH588	Nc1nc(NC2CC2)cc(-c2cccc(Cl)c2Cl)n1	False
+410884:01:03_02.00	Tubulin	71.5	2.0	67	CF53	COc1cc2c(cc1-c1c(C)noc1C)[nH]c1nc(C)nc(Nc3cc(C4CC4)nn3C)c12	False
+410973:01:03_02.00	Tubulin	73.4	2.0	67	TyK2-IN-2	CNc1cc(Nc2cc(C)cc(C)c2)nn2c(C(N)=O)cnc12	False
+246911:01:04_30.00	Uncoupler	32.8	30.0	76	Triclosan	Oc1cc(Cl)ccc1Oc1ccc(Cl)cc1Cl	False
+280973:01:03_10.00	Uncoupler	47.5	10.0	73	Tyrphostin A9	CC(C)(C)c1cc(C=C(C#N)C#N)cc(C(C)(C)C)c1O	False
+280982:01:03_10.00	Uncoupler	22.5	10.0	88	Tyrphostin AG 879	CC(C)(C)c1cc(/C=C(\C#N)C(N)=S)cc(C(C)(C)C)c1O	False
+280982:01:03_30.00	Uncoupler	51.1	30.0	78	Tyrphostin AG 879	CC(C)(C)c1cc(/C=C(\C#N)C(N)=S)cc(C(C)(C)C)c1O	False
+392672:01:09_02.00	Uncoupler	28.0	2.0	93	IMD-0354	O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(Cl)ccc1O	False
+404608:01:13_10.00	Uncoupler	39.9	10.0	87	FCCP	N#CC(C#N)=NNc1ccc(OC(F)(F)F)cc1	False
+404608:01:15_10.00	Uncoupler	33.3	10.0	76	FCCP	N#CC(C#N)=NNc1ccc(OC(F)(F)F)cc1	False
