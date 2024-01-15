@@ -7,6 +7,11 @@ Axel Pahl, Beate Schölermann, Sonja Sievers, Herbert Waldmann and Slava Ziegler
 
 It also contains the full processed Cell Painting data set used in this analysis (`input/ds_refs.tsv`).
 
+**Update 14-Nov-2023:** Added data for the MitoStress cluster ([Preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.08.565491v1) and submitted to Cell Chem. Biol.)
+* added 16 measurements for the MitoStress cluster to `cluster_cpds.tsv`
+* added 2 reference cpds. for MitoStress that were not part of the original dataset `ds_refs.tsv`
+* added the MitoStress cluster median subprofile
+* re-created several plots, now including the MitoStress cluster
 
 ## Repository Content (Excerpt)
 
